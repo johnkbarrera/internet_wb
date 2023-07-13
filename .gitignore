@@ -1,0 +1,6 @@
+data/*
+credentials.conf
+
+1_exposure_return_floods.ipynb
+madagascar_hospitals.ipynb
+raster_grib futuro.ipynb
